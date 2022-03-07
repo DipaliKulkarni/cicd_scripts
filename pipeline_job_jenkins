@@ -7,7 +7,7 @@ pipeline {
                 echo 'GIT Clone Phase'
                 sh '''#!/bin/bash
                  echo "hello world" 
-                 git clone https://github.com/CodvaTech-Labs/maven-demo.git
+                 git clone https://github.com/DipaliKulkarni/java_crud_demo.git
                 '''
             }
         }
